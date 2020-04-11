@@ -22,6 +22,7 @@
   - Francisco
   - Kauê
   - Edson
+  - Felipe
   
 - Marketing e Desingner
   - Ian
