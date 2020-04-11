@@ -12,7 +12,23 @@
  - [ ] Emissão de certificado simbólico
  - [ ] Enviado por email
  
-> Agenda
+## Time completo:
+
+- Libras
+  - Liliane
+  - Brenda
+  
+- Equipe de tutores
+  - Francisco
+  - Kauê
+  - Edson
+  
+- Marketing e Desingner
+  - Ian
+  
+### Agenda
+
+> Dias
 
 Instrutor | Dias
 ------------ | ------------
@@ -21,3 +37,13 @@ Francisco | dia |
 Edson | dia |
 Felipe | dia
 Ian | dia
+
+>Horarios
+
+Instrutor | horario
+------------ | ------------
+kaue | xx:xx até xx:xx  |
+Francisco | xx:xx até xx:xx |
+Edson | xx:xx até xx:xx |
+Felipe | xx:xx até xx:xx
+Ian | xx:xx até xx:xx
