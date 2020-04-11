@@ -29,22 +29,10 @@
   
 ### Agenda
 
-> Dias
-
-Instrutor | Dias
------------- | ------------
-kaue | terça e quinta |
-Francisco | dia |
-Edson | dia |
-Felipe | dia
-Ian | dia
-
->Horarios
-
-Instrutor | horario
------------- | ------------
-kaue | xx:xx até xx:xx  |
-Francisco | xx:xx até xx:xx |
-Edson | xx:xx até xx:xx |
-Felipe | xx:xx até xx:xx
-Ian | xx:xx até xx:xx
+Instrutor | Dias | Horario
+------------ | ------------ | ------------
+kaue | dia | xx:xx até xx:xx 
+Francisco | dia | xx:xx até xx:xx 
+Edson | dia | xx:xx até xx:xx 
+Felipe | dia | xx:xx até xx:xx 
+Ian | dia | xx:xx até xx:xx 
