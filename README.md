@@ -1,6 +1,6 @@
 # Plataforma em desenvolvimento
 
- - [x] Canal para as premires privadas
+ - [x] Canal para as premieres privadas
  - [x] Preparado index
  - [x] Instalado bootstrap 4
  - [ ] Prototipo para montar o site
