@@ -1,11 +1,5 @@
 # Plataforma em desenvolvimento
 
- - [x] Canal para as premieres privadas
- - [x] Preparado index
- - [x] Instalado bootstrap 4
- - [ ] Prototipo para montar o site
- - [ ] Inciado o desenvolvimento
- - [ ] Encerrado o Desenvolvimento
  - [ ] Gravada as aulas
  - [ ] Upadas e agendadas no youtube
  - [ ] Tutorias
